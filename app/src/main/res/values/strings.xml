@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Loan Calculate</string>
+    <string name="Price">Price</string>
+    <string name="DownPayment">Down Payment</string>
+    <string name="InterestRate">Interest Rate (%)</string>
+    <string name="Repayment">Re-payment(month)</string>
+    <string name="Salary">Salary</string>
+    <string name="Calculate">Calculate</string>
+    <string name="MonthlyRepayment">Monthly Repayment</string>
+    <string name="Status">Loan Status</string>
+    <string name="Close">Close</string>
+</resources>
